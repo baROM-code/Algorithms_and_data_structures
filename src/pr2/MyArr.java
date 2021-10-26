@@ -1,3 +1,4 @@
+package pr2;
 import java.util.Arrays;
 
 public class MyArr {
@@ -65,3 +66,4 @@ public class MyArr {
     }
 
 }
+
